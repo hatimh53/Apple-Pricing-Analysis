@@ -44,6 +44,7 @@ How do discounts vary by platform, category, and sale season — and does that r
 
 
 Apple_Product_Analysis.pbix — Power BI dashboard file
+apple_products_pricing_cleaned.xlsx - cleaned data file
 apple_dashboard_hd.png — dashboard screenshot
 sample_preview.csv — first 50 rows, for a quick look
 
@@ -55,3 +56,6 @@ Practice project to strengthen the Excel → Power BI → storytelling workflow,
 
 
 ⚠️ Note: Dataset is synthetic, built for practicing cleaning & dashboarding — not real Amazon/Flipkart data.
+
+
+⭐ If you found this project interesting, feel free to explore the page and leave a ⭐ on the repository!
