@@ -1,0 +1,51 @@
+Date,Platform,Product_Category,Model_Name,Condition,Launch_Price_USD,Launch_Price_INR,Current_Price_USD,Current_Price_INR,Discount_Pct,Sale_Event,Stock_Status,Rating,Reviews_Count
+19-09-2020,Flipkart,Watch,Apple Watch Series 6 (44mm),New,429,42042,435.81,43322.41,-1.6,,In Stock,4.7,40
+20-09-2020,Flipkart,Watch,Apple Watch Series 6 (44mm),New,429,42042,436.49,42320.43,-1.7,,Out of Stock,4.6,84
+23-09-2020,Amazon,Watch,Apple Watch Series 6 (44mm),New,429,42042,422.73,40879.36,1.5,,In Stock,4.4,110
+23-09-2020,Amazon,Watch,Apple Watch Series 6 (44mm),New,429,42042,425,42008.7,0.9,,In Stock,4.8,111
+24-09-2020,Amazon,Watch,Apple Watch Series 6 (44mm),New,429,42042,436.22,41984.28,-1.7,,In Stock,4.7,35
+26-09-2020,Flipkart,Watch,Apple Watch Series 6 (44mm),New,429,42042,436.29,43149.46,-1.7,,In Stock,4.7,45
+27-09-2020,Flipkart,Watch,Apple Watch Series 6 (44mm),New,429,42042,433.06,42587.59,-0.9,,In Stock,4.8,60
+29-09-2020,Flipkart,Watch,Apple Watch Series 6 (44mm),Renewed/Refurbished,429,42042,312.11,26276.64,27.2,,In Stock,4.4,146
+01-10-2020,Flipkart,Watch,Apple Watch Series 6 (44mm),New,429,42042,323.84,31855.01,24.5,Big Billion Days,In Stock,4.7,95
+01-10-2020,Amazon,Watch,Apple Watch Series 6 (44mm),New,429,42042,390.51,38757.36,9,Great Indian Festival,In Stock,4.9,133
+01-10-2020,Amazon,Watch,Apple Watch Series 6 (44mm),New,429,42042,385.37,37753.37,10.2,Great Indian Festival,In Stock,4.5,57
+01-10-2020,Amazon,Watch,Apple Watch Series 6 (44mm),Renewed/Refurbished,429,42042,274.88,23070.56,35.9,Great Indian Festival,In Stock,4.5,99
+02-10-2020,Flipkart,Watch,Apple Watch Series 6 (44mm),New,429,42042,348.7,34771.74,18.7,Big Billion Days,In Stock,4.6,71
+03-10-2020,Flipkart,Watch,Apple Watch Series 6 (44mm),New,429,42042,324.8,32134.64,24.3,Big Billion Days,In Stock,4.9,62
+04-10-2020,Amazon,Watch,Apple Watch Series 6 (44mm),Renewed/Refurbished,429,42042,265.1,22614.35,38.2,Great Indian Festival,Low Stock,4.4,112
+06-10-2020,Amazon,Watch,Apple Watch Series 6 (44mm),New,429,42042,348.69,33665.07,18.7,Great Indian Festival,Out of Stock,4.4,127
+06-10-2020,Amazon,Watch,Apple Watch Series 6 (44mm),New,429,42042,380.46,36957.63,11.3,Great Indian Festival,In Stock,4.6,112
+06-10-2020,Flipkart,Watch,Apple Watch Series 6 (44mm),New,429,42042,354.95,34964.38,17.3,Big Billion Days,In Stock,4.7,176
+07-10-2020,Flipkart,Watch,Apple Watch Series 6 (44mm),New,429,42042,348.33,34539.69,18.8,Big Billion Days,In Stock,4.7,140
+07-10-2020,Flipkart,Watch,Apple Watch Series 6 (44mm),Renewed/Refurbished,429,42042,308.34,25820.76,28.1,Big Billion Days,Out of Stock,4,157
+08-10-2020,Flipkart,Watch,Apple Watch Series 6 (44mm),New,429,42042,351.25,34046.78,18.1,Big Billion Days,Out of Stock,4.2,163
+08-10-2020,Flipkart,Watch,Apple Watch Series 6 (44mm),New,429,42042,338.18,33386.67,21.2,Big Billion Days,Low Stock,4.6,160
+09-10-2020,Flipkart,Watch,Apple Watch Series 6 (44mm),New,429,42042,373.25,36495.14,13,Big Billion Days,In Stock,4.6,44
+11-10-2020,Amazon,Watch,Apple Watch Series 6 (44mm),New,429,42042,370.68,36046.07,13.6,Great Indian Festival,In Stock,4.8,97
+11-10-2020,Amazon,Watch,Apple Watch Series 6 (44mm),New,429,42042,340.08,33597.58,20.7,Great Indian Festival,In Stock,4.5,102
+14-10-2020,Flipkart,Watch,Apple Watch Series 6 (44mm),New,429,42042,328.53,32762.66,23.4,Big Billion Days,Out of Stock,4.3,156
+14-10-2020,Flipkart,Watch,Apple Watch Series 6 (44mm),Renewed/Refurbished,429,42042,287.87,24767.07,32.9,Big Billion Days,Out of Stock,3.9,225
+15-10-2020,Flipkart,Watch,Apple Watch Series 6 (44mm),Renewed/Refurbished,429,42042,255.77,21918.92,40.4,Big Billion Days,Low Stock,4,135
+16-10-2020,Amazon,Watch,Apple Watch Series 6 (44mm),New,429,42042,429.39,42886.43,-0.1,,In Stock,4.8,168
+18-10-2020,Flipkart,Watch,Apple Watch Series 6 (44mm),Renewed/Refurbished,429,42042,331.95,28468.19,22.6,,In Stock,4.3,225
+18-10-2020,Flipkart,Watch,Apple Watch Series 6 (44mm),Renewed/Refurbished,429,42042,360.84,30701.3,15.9,,In Stock,3.8,184
+21-10-2020,Amazon,Watch,Apple Watch Series 6 (44mm),Renewed/Refurbished,429,42042,360.47,30502.87,16,,In Stock,4.4,147
+22-10-2020,Amazon,Watch,Apple Watch Series 6 (44mm),New,429,42042,437.28,43200.77,-1.9,,In Stock,4.4,158
+23-10-2020,Flipkart,Watch,Apple Watch Series 6 (44mm),New,429,42042,433.4,42014.16,-1,,In Stock,4.7,186
+23-10-2020,Flipkart,iPad,iPad Air (4th Gen) 64GB,New,599,58702,599.55,58434.06,-0.1,,Out of Stock,4.6,83
+23-10-2020,Flipkart,iPhone,iPhone 12 64GB,New,799,78302,794.53,78340.42,0.6,,In Stock,4.4,87
+23-10-2020,Flipkart,iPhone,iPhone 12 Pro 128GB,New,999,97902,994.04,97853.88,0.5,,In Stock,4.2,73
+24-10-2020,Flipkart,Watch,Apple Watch Series 6 (44mm),New,429,42042,421.78,40536.55,1.7,,In Stock,4.6,140
+24-10-2020,Flipkart,Watch,Apple Watch Series 6 (44mm),New,429,42042,429.4,42578.05,-0.1,,Low Stock,4.3,168
+24-10-2020,Amazon,Watch,Apple Watch Series 6 (44mm),New,429,42042,424.81,42357.77,1,,Out of Stock,4.3,263
+24-10-2020,Flipkart,iPad,iPad Air (4th Gen) 64GB,New,599,58702,591.99,57562.43,1.2,,Out of Stock,4.4,95
+24-10-2020,Amazon,iPhone,iPhone 12 Pro 128GB,New,999,97902,1002.99,98268.29,-0.4,,In Stock,4.3,27
+24-10-2020,Amazon,iPhone,iPhone 12 Pro 128GB,New,999,97902,1018.59,101731.95,-2,,In Stock,4.7,69
+24-10-2020,Flipkart,iPhone,iPhone 12 Pro 128GB,New,999,97902,1008.45,97646.38,-0.9,,Out of Stock,4.8,91
+25-10-2020,Flipkart,Watch,Apple Watch Series 6 (44mm),Renewed/Refurbished,429,42042,336.55,28181.66,21.6,,In Stock,4.2,199
+25-10-2020,Flipkart,iPhone,iPhone 12 64GB,New,799,78302,808.24,78521.55,-1.2,,In Stock,4.2,41
+25-10-2020,Flipkart,iPhone,iPhone 12 64GB,New,799,78302,806.28,77725.7,-0.9,,In Stock,4.9,31
+25-10-2020,Amazon,iPhone,iPhone 12 64GB,New,799,78302,799.67,79102.98,-0.1,,In Stock,4.7,54
+26-10-2020,Amazon,Watch,Apple Watch Series 6 (44mm),New,429,42042,433.26,41708.05,-1,,In Stock,4.9,181
+26-10-2020,Flipkart,iPad,iPad Air (4th Gen) 64GB,Renewed/Refurbished,599,58702,506.91,42461.72,15.4,,In Stock,4,26
